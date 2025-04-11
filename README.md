@@ -9,7 +9,7 @@ This package includes minimalist ROS 2 code to demonstrated important ROS 2 conc
 
 ## Prerequisites
 
-- ROS 2 installed
+- ROS 2 must be installed
 - Python 3
 - Created a ROS 2 workspace (`ros2_ws`)
 
